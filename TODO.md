@@ -44,37 +44,22 @@
   7 = 5 hours
   10 = full day + ??
 
-  *(5) add due date
-  *(7) time stamps (moment.js)
-  (5) format the display of the items in a list (need to add more detail)
-  (??) fix the layout
-  (7) color coded priority
-  highlight certain items
-  mouse over to see details
-  ability to select and delete multiple items (checkbox?)
-  add status/priorty and allow for sorting based on status/priority
-  Item categories
-  ability to add/leave comments on item
-  upload files/images
-  share item
-  drag and drop to arrange
-  search/filter on keyup/keydown
-  reminders? (push operation?)
-  secret corgi
-  delete item confirmation
-  fillet edges of boxes
-  font changes/choices? (google fonts)
-  Panic Button
-  Highlight based on status/priority/due date
-  options page (ability to set/toggle options)
-  show deleted items and allow for undelete
-  pagination (if more than 10 show a next button)
-  category pages (not really pages, just a show/hide trick)
-  strike-through completed/deleted items (styling)
-  add more items button, that shows another input section allowing for multiple items to be added at once
-  Fun stuff
-  auto-complete when searching/filtering
+  Concept: A grocery list allowing the user to add items. Create check boxes to delete items that have been bought then update the list.
+  Possibly produce a chart showing which items you buy the most of.
 
+  (5) add due date
+  *(7) time stamps (moment.js)
+  *(5) format the display of the items in a list (need to add more detail)
+  *(??) fix the layout
+  *(8)ability to select and delete multiple items (checkbox?)
+  (7)ability to add/leave comments on item
+  *(5)delete item confirmation
+  (5)Panic Button
+  (6)pagination (if more than 10 show a next button)
+  (5)category pages (not really pages, just a show/hide trick)
+  (7)add more items button, that shows another input section allowing for multiple items to be added at once
+  (8)Fun stuff
+  
 
 
 
