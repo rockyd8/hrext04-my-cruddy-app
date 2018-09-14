@@ -2,7 +2,7 @@ $(document).ready(function() {
 var items = JSON.parse(localStorage["items"]) || [];
 
 function addToList(val) {
-  $("#pendingItems").append("<li>" + val + "  <button class='purchasedItem'>Purchased</button> <button class='deleteItem'>Delete Item</button></li>");
+  $("#pendingItems").append("<li>" + val + "    <button class='purchasedItem'>Purchased</button> <button class='deleteItem'>Delete Item</button></li>");
 }
 
 for (var i = 0; i < items.length; i++) {
