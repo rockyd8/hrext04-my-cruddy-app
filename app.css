@@ -1,0 +1,23 @@
+h2 {
+  color: green;
+}
+
+ul {
+  padding: 10px;
+}
+
+.purchased {
+  text-decoration: line-through;
+}
+
+body {
+  background: url(/Users/RockysMac/Documents/GitHub/git/hrext04-my-cruddy-app/grocery-store.jpg);
+  background-size: cover;
+}
+
+#addItem {
+  background: red;
+}
+
+
+
