@@ -1,9 +1,11 @@
 h2 {
-  color: green;
+  color: white;
 }
 
 ul {
-  padding: 10px;
+  padding: 15px;
+  color: #BDD095;
+  list-style-type: square;
 }
 
 .purchased {
@@ -11,13 +13,23 @@ ul {
 }
 
 body {
-  background: url(/Users/RockysMac/Documents/GitHub/git/hrext04-my-cruddy-app/grocery-store.jpg);
+  background: url(/Users/RockysMac/Documents/GitHub/git/hrext04-my-cruddy-app/coffee.jpg);
   background-size: cover;
 }
 
 #addItem {
-  background: red;
+  background: #A3ADB8;
 }
 
+h3 {
+  color: white;
+}
 
+.deleteItem {
+  background: #A3ADB8;
+}
+
+.purchasedItem {
+  background: #A3ADB8;
+}
 
